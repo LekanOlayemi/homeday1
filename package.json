@@ -1,0 +1,18 @@
+{
+  "name": "homeday1",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"git\""
+  },
+  "author": "",
+  "license": "ISC"
+}
